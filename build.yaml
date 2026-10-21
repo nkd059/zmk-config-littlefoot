@@ -15,5 +15,5 @@
 include:
   - board: nice_nano//zmk
     shield: littlefoot
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: settings_reset
